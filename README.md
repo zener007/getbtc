@@ -66,5 +66,3 @@ contract APIConsumer is ChainlinkClient {
         require(linkToken.transfer(msg.sender, linkToken.balanceOf(address(this))), "Unable to transfer");
     }
 }
-
-==================================================================================================================
