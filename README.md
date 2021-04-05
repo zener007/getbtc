@@ -1,7 +1,5 @@
-Index price : median of last, best bid, best offer
+BTC Index price : median of last, best bid, best offer
 ==================================================================================================================
-
-BTC
 
 Binance TUSD
 Binance USDC
